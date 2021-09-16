@@ -1,0 +1,26 @@
+body{
+	width: 50%
+	height: auto;
+	margin: auto;
+	border: 1px solid black;
+}
+
+table{
+	border-spacing: 0px;
+}
+
+th{
+	border: 1px solid black;
+}
+
+td{
+	border: 1px solid black;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
